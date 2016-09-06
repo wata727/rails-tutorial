@@ -1,2 +1,2 @@
-IrresponsibleModule:
-  enabled: false
+exclude_paths:
+  - app/helpers
